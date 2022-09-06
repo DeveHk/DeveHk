@@ -39,7 +39,16 @@ I am a Front End Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 - :zap: Working on new projects, Improving my skills.
 
+- :rocket: Also do competitive programming.. 3:star: on CodeChef
+
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Harsh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-kumar-b8603922b/)
+
+### :man_technologist: Currently Learning :
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  
+</div>
 
 ---
 
