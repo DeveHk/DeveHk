@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
-I am a Front End Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: Open-Source enthusiast
+I am a Fullstack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. Available for collaboration, freelance projects or anything that can change the world.
+- :telescope: Develops websites with MERN and other tech stacks as well.
 
 - :seedling: Currently pursuing B.Tech in Computer Science with specialization in A.I.
 
-- :zap: Working on new projects, Improving my skills.
+- :zap: Working on projects tapping the potential of AI in various domains.
 
-- :rocket: Also do competitive programming.. 3:star: on CodeChef
+- :rocket: Soon launching a lot more.... 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Harsh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harshkumarnsut/)
 
